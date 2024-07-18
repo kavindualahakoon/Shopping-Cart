@@ -15,7 +15,3 @@ function App() {
 }
 
 export default App;
-
-//01:00:39
-
-//                  https://www.youtube.com/watch?v=q9udXrsSsIg
